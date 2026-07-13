@@ -9,6 +9,7 @@
   "identity": "9B74364A5E526BED",
   "securityContact": "security@kiln.fi",
   "addresses": {
+    "celestia": "celestiavaloper1uxlf7mvr8nep3gm7udf2u9remms2jyjqa02qlj",
     "sei": "seivaloper1uxlf7mvr8nep3gm7udf2u9remms2jyjq6ee35g"
   }
 }
