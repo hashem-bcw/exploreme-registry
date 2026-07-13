@@ -9,6 +9,7 @@
   "identity": "0A6AF02D1557E5B4",
   "securityContact": "hello@polkachu.com",
   "addresses": {
+    "celestia": "celestiavaloper1jgqewpzn7dww5tlpnkypm72fm8tjznmw7ll7ls",
     "sei": "seivaloper1mpe9rdk7ycujge7r9ncjt4ekamgrdcygvzwqe8"
   }
 }

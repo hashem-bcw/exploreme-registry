@@ -9,6 +9,7 @@
     "identity": "94EFE192B2C52424",
     "securityContact": "info@nodestake.org",
     "addresses": {
+      "celestia": "celestiavaloper19f0w9svr905fhefusyx4z8sf83j6et0g57nch8",
       "story": "storyvaloper1ega2a5e3xjd6fxcspu83u4rhgwajp3087wt494"
     }
   }
